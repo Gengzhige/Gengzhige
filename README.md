@@ -17,7 +17,7 @@
 
 我们近期会逐步分享强化学习领域的高引论文，欢迎关注。
 
-[点击查看](https://space.bilibili.com/1921388479)
+[点击查看](https://space.bilibili.com/1921388479)，也欢迎大家在[讨论区](https://github.com/Gengzhige/Gengzhige/discussions)里提供建议。
 
 <table>
     <thead><tr><th>年份</th><th>名称</th><th>简介</th><th>引用</th></tr></thead>
